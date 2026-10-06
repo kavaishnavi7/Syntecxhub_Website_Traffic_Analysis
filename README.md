@@ -2,6 +2,15 @@
 
 **Internship:** Syntecxhub Data Analytics Internship  
 **Project:** Website Traffic Analysis
+# Syntecxhub Website Traffic Analysis
+
+## 🌐 Live Dashboard
+
+[View Live Website](https://syntecxhub-website-traffic-analysis.vercel.app)
+
+## 💻 GitHub Repository
+
+This repository contains the complete source code, dataset, Jupyter Notebook, dashboard, and visualizations for the Website Traffic Analysis project.
 
 ## Objective
 
